@@ -1,9 +1,9 @@
-import { Testy } from './Testy';
+import { FirstBarChart } from './visuals/FirstBarChart';
 
 function App() {
   return (
     <div className='app'>
-      <Testy />
+      <FirstBarChart />
     </div>
   );
 }
